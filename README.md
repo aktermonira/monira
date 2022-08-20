@@ -1,15 +1,15 @@
-<h2 align="center">Hi,I'm monira</h1>
-<h3 align="center">Web Developer</h3>
+<h2>Hi,I'm monira</h1>
+<h3Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktermonira&label=Profile%20views&color=0e75b6&style=flat" alt="aktermonira" />no </p>
 
-- 🌱 I’m currently learning **Framework**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **php,laravel,react,codignator**
 
 - 📫 How to reach me **amonira404@gmail.com**
 
-- 📄 Know about my experiences [monira.intels.co](monira.intels.co)
+- 📄 Know about my experiences <a href="monira.intels.co">monira.intels.co</a>
 
 <h3 align="left">Connect with me:amonira404@gmail.com</h3>
 <p align="left">
