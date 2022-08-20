@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **amonira404@gmail.com**
 
-- 📄 Know about my experiences <a href="monira.intels.co">monira.intels.co</a>
-
 <h3 align="left">Connect with me:amonira404@gmail.com</h3>
 <p align="left">
 </p>
